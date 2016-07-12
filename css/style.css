@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+video {
+	position: fixed;
+	opacity: 0.1;
+}
